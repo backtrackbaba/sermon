@@ -9,5 +9,12 @@ $background-color:  #dc5945;
 .widget-clock {
 
   background-color: $background-color;
+  
 
+}
+
+.custom-clock {
+  text-transform: uppercase;
+  font-size: 60px;
+  font-weight: 700;
 }
